@@ -1,4 +1,6 @@
-loan-calc
-=========
+Loan Payment Calculator
+=======================
 
-Calculates interest payments on a loan using JavsScript, with PHP fallback.
+Calculates monthly payments, including interest, on a financial loan using JavsScript, with PHP fallback.
+
+The real challenge of this project is creating a RegEx to validate the number input over a simple value comparison.
